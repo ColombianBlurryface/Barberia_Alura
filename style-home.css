@@ -1,0 +1,47 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+#banner{
+    width : 100%;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+
+
+em strong{
+    color: red;
+}
+#mision{
+    font-size: 20px;
+}
+.diferenciales{
+    background: white;
+    padding: 30px;
+}
+
+
+.items{
+    font-style: italic;
+}
+
+ul{/*se crea el selector de la etiqueta ul para altera sus propiedades*/
+
+    display: inline-block;/*para que ocupe solo el espacio de su contenido y lo de alrededor se pueda 
+                            modificar*/
+    vertical-align: top;/*para que el txt se alinee arriba */
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales{/*cambiando el ancho de la imagen al 50%*/
+    width: 50%;
+}
